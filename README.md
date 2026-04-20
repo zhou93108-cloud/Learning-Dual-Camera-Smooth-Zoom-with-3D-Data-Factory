@@ -47,3 +47,18 @@ The Structure of ZoomFI, a specialized FI model for photo-realistic zooming betw
 - Training: run [`bash ./train.sh`](./train.sh)
 - Testing on synthetic data: run [`bash ./test_syn.sh`](./test_syn.sh)
 - Testing on real-world data: run [`bash ./test_real.sh`](./test_real.sh)
+
+## Acknowledgement
+
+Special thanks to the following awesome projects!
+
+- [DCSZ](https://github.com/ZcsrenlongZ/ZoomGS)
+- [SEA-RAFT](https://github.com/princeton-vl/SEA-RAFT)
+- [DL3DV-10K](https://github.com/DL3DV-10K/Dataset)
+- [Gaussian-Splatting](https://github.com/graphdeco-inria/gaussian-splatting)
+- [FSGS](https://github.com/VITA-Group/FSGS)
+- [BAD-Gaussian](https://github.com/WU-CVGL/BAD-Gaussians)
+- [RIFE](https://github.com/hzwer/ECCV2022-RIFE)
+
+## Citation
+If you make use of our work, please cite our paper.
