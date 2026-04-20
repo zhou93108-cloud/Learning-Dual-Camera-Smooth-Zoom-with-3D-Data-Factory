@@ -20,5 +20,5 @@ First we use the Syn-ZoomGS method to generate training data. (a)The pipline of 
 
 2.3 Zoom FI
 -----------------------
-<img width="507" height="613" alt="FI_model_0313" src="https://github.com/user-attachments/assets/f3e8a9fe-def5-42e9-ba77-acf6e2852277" />
+<img width="307" height="413" alt="FI_model_0313" src="https://github.com/user-attachments/assets/f3e8a9fe-def5-42e9-ba77-acf6e2852277" />
 The Structure of ZoomFI, a specialized FI model for photo-realistic zooming between dual cameras.
