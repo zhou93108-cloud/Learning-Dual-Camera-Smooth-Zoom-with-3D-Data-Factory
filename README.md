@@ -37,6 +37,11 @@ The Structure of ZoomFI, a specialized FI model for photo-realistic zooming betw
   Run [`bash ./zoomgs_render_huawei85.sh`](./zoomgs_trains.sh)
 
 ## 5.Start for Real-ZoomGS
+- Run [`cd ./RealZoomGS`](./ZoomGS)
+- Run [`bash ./zoomgs_train.sh`](./zoomgs_trains.sh)
 
 ## 6.Start for ZoomFI
-
+- Run [`cd ./ZoomFI`](./FrameInterpolation)
+- Training: run [`bash ./train.sh`](./train.sh)
+- Testing on synthetic data: run [`bash ./test_syn.sh`](./test_syn.sh)
+- Testing on real-world data: run [`bash ./test_real.sh`](./test_real.sh)
